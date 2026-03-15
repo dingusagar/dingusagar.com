@@ -207,14 +207,14 @@ window.portfolioData = {
       "venue": "NeurIPS 2025",
       "date": "2025",
       "description": "Interactive environment for training and evaluating LLM agents on real ML engineering tasks. Gym-style open-source framework.",
-      "url": "https://arxiv.org"
+      "url": "https://neurips.cc/virtual/2025/loc/san-diego/poster/121831"
     },
     {
       "title": "Accessible Technology Recommendation System for the Disabled Population",
       "venue": "ACM ASSETS 2025",
       "date": "2025",
       "description": "ML-powered system for recommending assistive technologies to people with disabilities.",
-      "url": ""
+      "url": "https://dl.acm.org/doi/epdf/10.1145/3663547.3759701"
     }
   ],
   "github": {
