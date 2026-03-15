@@ -1,0 +1,286 @@
+{
+  "personal": {
+    "name": "Dingu Sagar",
+    "title": "AI Software Engineer",
+    "location": "Atlanta, Georgia, United States",
+    "email": "dingusagar@gmail.com",
+    "bio": "AI Software Engineer with 4.5+ years of experience building deep learning solutions including Multi-Modal LLMs and distributed systems. Product- and customer-centric mindset with strong ownership.",
+    "photo": "assets/profile_400.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dingu-sagar/",
+      "github": "https://github.com/dingusagar",
+      "twitter": "https://twitter.com/dingusagar",
+      "youtube": "https://www.youtube.com/channel/UCKFTlLHfPK2LINkenW7-XCg",
+      "stackoverflow": "https://stackoverflow.com/users/dingu-sagar"
+    }
+  },
+  "summary": "AI Software Engineer with 4.5+ years of experience designing, building, fine-tuning, optimizing, and deploying deep learning solutions including Multi-Modal LLMs and distributed systems for SaaS. Demonstrates a product- and customer-centric mindset with strong ownership and rapid learning skills leveraging modern AI tools.",
+  "experience": [
+    {
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "title": "Software Engineer Intern",
+      "startDate": "May 2025",
+      "endDate": "Aug 2025",
+      "description": "Designed, built, and deployed an end-to-end ML-powered anomaly detection data processing pipeline for inventory cost data.",
+      "highlights": [
+        "Processed ~20 million daily records in a distributed Spark cluster with ~$12M impact in one quarter",
+        "Used PySpark, RCF model, AWS CloudFormation, Glue, Step Functions, Lambda"
+      ]
+    },
+    {
+      "company": "Arintra",
+      "location": "Bangalore, India",
+      "title": "Machine Learning Engineer",
+      "startDate": "Apr 2023",
+      "endDate": "Jun 2024",
+      "description": "Built and integrated the platform's first set of DL features for automated medical coding.",
+      "highlights": [
+        "Improved automated medical coding business metrics (D2B) by 16%, showcased in investor demos",
+        "Migrated legacy rule-based NLP services to LLM-based text extractors, improving coding accuracy from 70% to 94%",
+        "Utilized LLMs: Llama-3, GPT-4, MedLM, RAG, Medical Knowledge Graphs"
+      ]
+    },
+    {
+      "company": "Drishti",
+      "location": "Bangalore, India",
+      "title": "Machine Learning Engineer",
+      "startDate": "Oct 2022",
+      "endDate": "Jan 2023",
+      "description": "Distributed training, debugging, evaluation and deployment of 3D CNN models for action recognition in videos.",
+      "highlights": [
+        "Delivered 93–97% precision & recall across customer use cases using I3D and BMN models",
+        "Conducted research experiments with GLIP model using PyTorch, improving training efficiency with minimal train set"
+      ]
+    },
+    {
+      "company": "Engati (formerly Coviam Technologies)",
+      "location": "Bangalore, India",
+      "title": "Senior Machine Learning Engineer",
+      "startDate": "Aug 2020",
+      "endDate": "Sep 2022",
+      "description": "Led a team of 4 to build an e-commerce product recommendation system and AI chatbot assistants.",
+      "highlights": [
+        "Designed novel search retrieval & ranking using BERT embeddings, VectorDB, CLIP — scaled to 1M+ product listings with 93% recall",
+        "Optimized inference latency by 40% using ONNX, quantization, knowledge distillation, AWS Neuron",
+        "Built AI chatbot assistants for Shopify clients resolving 60–70% of customer queries; built MLOps pipeline with Kubeflow & TF Serving",
+        "Recognized with the Braine Award"
+      ]
+    },
+    {
+      "company": "Coviam Technologies",
+      "location": "Bangalore, India",
+      "title": "Software Engineer Intern",
+      "startDate": "May 2019",
+      "endDate": "Oct 2019",
+      "description": "Built backend APIs for HR Management Software.",
+      "highlights": [
+        "Designed and built a microservice for pinning items across HR use cases",
+        "Optimized caching layer using hibernate interceptors to resolve stale data issues"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "degree": "Master's in Computer Science",
+      "field": "Machine Learning Specialization",
+      "location": "Atlanta, USA",
+      "startDate": "Jan 2024",
+      "endDate": "Dec 2025",
+      "gpa": "4.0 / 4.0",
+      "notes": "Graduate Research Assistant"
+    },
+    {
+      "institution": "Indian Institute of Information Technology (IIIT) Kancheepuram",
+      "degree": "Bachelors + Masters in Computer Engineering",
+      "field": "Dual Degree",
+      "location": "Kancheepuram, India",
+      "startDate": "Jul 2015",
+      "endDate": "Jul 2020",
+      "gpa": "9.22 / 10",
+      "notes": "Graduated with Distinction"
+    }
+  ],
+  "skills": {
+    "ai_ml": [
+      "Generative AI", "LLMs (Llama, Qwen, GPT, Gemini)", "Multi-Modal VLMs (CLIP)",
+      "Large Vision Models", "Transformers", "RAG", "LLM Agents", "Fine-tuning",
+      "Reinforcement Learning", "NLP", "Computer Vision", "XGBoost", "LightGBM",
+      "Knowledge Distillation", "Model Quantization", "Distributed Training",
+      "MLOps", "LLMOps", "ML Infrastructure", "Statistical Data Analysis",
+      "Data Mining", "scikit-learn", "Pandas", "MLFlow"
+    ],
+    "frameworks": [
+      "PyTorch", "TensorFlow", "LangChain", "Kubeflow", "FastAPI", "Flask",
+      "Spring", "Streamlit", "Plotly", "Tableau", "Rasa"
+    ],
+    "languages": [
+      "Python", "Java", "C++", "C", "JavaScript", "TypeScript", "Kotlin"
+    ],
+    "cloud_tools": [
+      "AWS", "GCP", "Azure", "Vertex AI", "SageMaker", "Spark", "Kafka",
+      "Kubernetes", "Flink", "ElasticSearch", "Vector DB", "Redis",
+      "MongoDB", "MySQL", "MapReduce"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "Learning BigQuery",
+      "issuer": "LinkedIn",
+      "date": "Feb 2023"
+    },
+    {
+      "name": "Machine Learning Explainability",
+      "issuer": "Kaggle",
+      "date": "Feb 2023"
+    },
+    {
+      "name": "Rasa Developer Certification",
+      "issuer": "Rasa",
+      "date": "Nov 2021"
+    },
+    {
+      "name": "ML with TensorFlow on Google Cloud",
+      "issuer": "Coursera",
+      "date": "Jun 2020"
+    },
+    {
+      "name": "CodeChef CCDSAP Foundation",
+      "issuer": "CodeChef",
+      "date": "Jan 2020"
+    },
+    {
+      "name": "NPTEL Deep Learning",
+      "issuer": "NPTEL",
+      "date": "Oct 2018"
+    }
+  ],
+  "publications": [
+    {
+      "title": "MLE-Dojo: Interactive Environment for LLM Agents Solving ML Tasks",
+      "venue": "NeurIPS 2025",
+      "date": "2025",
+      "description": "Interactive environment for training and evaluating LLM agents on real ML engineering tasks. Gym-style open-source framework.",
+      "url": "https://arxiv.org"
+    },
+    {
+      "title": "Accessible Technology Recommendation System for the Disabled Population",
+      "venue": "ACM ASSETS 2025",
+      "date": "2025",
+      "description": "ML-powered system for recommending assistive technologies to people with disabilities.",
+      "url": ""
+    }
+  ],
+  "github": {
+    "username": "dingusagar",
+    "stats": {
+      "public_repos": 108,
+      "public_gists": 4,
+      "followers": 46,
+      "following": 38,
+      "stars_received": 65,
+      "account_created": "2015-06-01",
+      "hireable": false
+    },
+    "achievements": [
+      "Starstruck",
+      "Pull Shark (x2)",
+      "Arctic Code Vault Contributor"
+    ],
+    "projects": [
+      {
+        "name": "AsyncFaceRecognition",
+        "description": "A demo Python application for face recognition based attendance system.",
+        "language": "Python",
+        "stars": 16,
+        "forks": 1,
+        "url": "https://github.com/dingusagar/AsyncFaceRecognition",
+        "topics": ["computer-vision", "face-recognition", "python"],
+        "pinned": true
+      },
+      {
+        "name": "pyautoeasy",
+        "description": "Extension/wrapper around PyAutoGUI, a cross-platform GUI automation Python tool.",
+        "language": "Python",
+        "stars": 7,
+        "forks": 3,
+        "url": "https://github.com/dingusagar/pyautoeasy",
+        "topics": ["automation", "gui", "python"],
+        "pinned": true
+      },
+      {
+        "name": "termy",
+        "description": "Lightweight terminal assistant to give a natural language interface to your terminal commands.",
+        "language": "Python",
+        "stars": 3,
+        "forks": 0,
+        "url": "https://github.com/dingusagar/termy",
+        "topics": ["terminal", "nlp", "cli"],
+        "pinned": true
+      },
+      {
+        "name": "AmITheAsshole-Classifier",
+        "description": "Describe a life situation and ask this AI if your actions are that of an asshole or not. Inspired by r/AmItheAsshole.",
+        "language": "Jupyter Notebook",
+        "stars": 1,
+        "forks": 0,
+        "url": "https://github.com/dingusagar/AmITheAsshole-Classifier",
+        "demo": "https://huggingface.co/spaces/dingusagar/aita-classifier",
+        "topics": ["bert-model", "llama3", "llm"],
+        "pinned": true
+      },
+      {
+        "name": "MouseGestureRecognition",
+        "description": "App that triggers workflows on detecting mouse gestures using CNN.",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "url": "https://github.com/dingusagar/MouseGestureRecognition",
+        "topics": ["computer-vision", "cnn", "gesture-recognition"],
+        "pinned": true
+      },
+      {
+        "name": "mle-bench",
+        "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering.",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "url": "https://github.com/dingusagar/mle-bench",
+        "homepage": "https://openai.com/index/mle-bench/",
+        "topics": ["llm-agents", "benchmarking", "ml-engineering"]
+      },
+      {
+        "name": "Advanced-CS-Materials",
+        "description": "Curation of educational resources for deeper CS knowledge.",
+        "language": null,
+        "stars": 2,
+        "forks": 0,
+        "url": "https://github.com/dingusagar/Advanced-CS-Materials",
+        "topics": ["education", "computer-science"]
+      },
+      {
+        "name": "Draw-Binary-Tree",
+        "description": "Utility to visually draw binary trees.",
+        "language": "Python",
+        "stars": 1,
+        "forks": 1,
+        "url": "https://github.com/dingusagar/Draw-Binary-Tree",
+        "pinned": true
+      }
+    ]
+  },
+  "content": {
+    "medium_articles": [
+      "Three articles on machine learning topics"
+    ],
+    "youtube": [
+      "Knowledge Distillation tutorial",
+      "Model Quantization tutorial",
+      "KBERT Transformers tutorial"
+    ],
+    "guest_posts": [
+      "Streamlit web applications (Streamlit blog)"
+    ]
+  }
+}
