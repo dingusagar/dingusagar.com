@@ -47,6 +47,7 @@
         <li><a href="#experience">Experience</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#skills">Skills</a></li>
+        <!-- <li><a href="#ai-lab">AI Lab</a></li> -->
         <li><a href="#publications">Publications</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -65,6 +66,7 @@
       <li><a href="#experience"   class="mobile-nav-link">Experience</a></li>
       <li><a href="#projects"     class="mobile-nav-link">Projects</a></li>
       <li><a href="#skills"       class="mobile-nav-link">Skills</a></li>
+      <!-- <li><a href="#ai-lab" class="mobile-nav-link">AI Lab</a></li> -->
       <li><a href="#publications" class="mobile-nav-link">Publications</a></li>
       <li><a href="#contact"      class="mobile-nav-link">Contact</a></li>
     </ul>
@@ -143,6 +145,43 @@
       </div>
     </section>
 
+    <!-- AI LAB ────────────────────────── -->
+    <section id="ai-lab" class="section" style="display:none">
+      <div class="container">
+        <h2 class="section-title">AI Lab</h2>
+        <p class="section-subtitle">Neuroevolution — watch a quadruped learn to walk in real time</p>
+        <div class="glass-card ai-lab-card animate-on-scroll">
+          <canvas id="walker-canvas"></canvas>
+          <div class="walker-controls">
+            <div class="walker-speed-group">
+              <span class="walker-label">Speed</span>
+              <button class="walker-btn active" data-speed="1">1×</button>
+              <button class="walker-btn" data-speed="5">5×</button>
+              <button class="walker-btn" data-speed="20">20×</button>
+            </div>
+            <div class="walker-action-group">
+              <button class="walker-btn" id="walker-watch-btn">Watch Best</button>
+              <button class="walker-btn walker-btn-reset" id="walker-reset">Reset</button>
+            </div>
+          </div>
+          <div class="walker-stats">
+            <div class="walker-stat">
+              <span class="walker-stat-label">Generation</span>
+              <span class="walker-stat-value" id="walker-gen">1</span>
+            </div>
+            <div class="walker-stat">
+              <span class="walker-stat-label">Gen Best</span>
+              <span class="walker-stat-value" id="walker-fit">0</span>
+            </div>
+            <div class="walker-stat">
+              <span class="walker-stat-label">All-Time Best</span>
+              <span class="walker-stat-value" id="walker-best">0</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- PUBLICATIONS ──────────────────── -->
     <section id="publications" class="section">
       <div class="container">
@@ -179,5 +218,6 @@
   <!-- Scripts -->
   <script src="js/app.js"></script>
   <script src="js/animations.js"></script>
+  <script src="js/rl-walker.js"></script>
 </body>
 </html>
